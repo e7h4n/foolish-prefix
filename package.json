@@ -1,0 +1,25 @@
+{
+  "name": "foolish-prefix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfectworks/foolish-prefix.git"
+  },
+  "author": "perfectworks <perfectworks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfectworks/foolish-prefix/issues"
+  },
+  "homepage": "https://github.com/perfectworks/foolish-prefix#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-prefix": "0.0.15",
+    "yargs": "^5.0.0"
+  }
+}
